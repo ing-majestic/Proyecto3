@@ -1,0 +1,5 @@
+// The Round Graph
+digraph "2_ruta_erdosrenyi20" {
+	2 -> 12 [label=15 constraint=false]
+	12 [label="2 a nodo 12: 15" xlabel=""]
+}

@@ -1,0 +1,6 @@
+// The Round Graph
+digraph "1_ruta_malla100" {
+	5 -> 93 [label=6 constraint=false]
+	93 -> 70 [label=1 constraint=false]
+	70 [label="5 a nodo 70: 7" xlabel=""]
+}

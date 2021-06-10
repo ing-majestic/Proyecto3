@@ -1,0 +1,10 @@
+// The Round Graph
+digraph "2_ruta_erdosrenyi100" {
+	5 -> 14 [label=12 constraint=false]
+	14 -> 66 [label=4 constraint=false]
+	66 -> 41 [label=1 constraint=false]
+	41 -> 44 [label=4 constraint=false]
+	44 -> 25 [label=1 constraint=false]
+	25 -> 76 [label=4 constraint=false]
+	76 [label="5 a nodo 76: 26" xlabel=""]
+}

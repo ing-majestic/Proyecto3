@@ -1,0 +1,6 @@
+// The Round Graph
+digraph "3_ruta_gilbert20" {
+	1 -> 12 [label=61 constraint=false]
+	12 -> 6 [label=0 constraint=false]
+	6 [label="1 a nodo 6: 61" xlabel=""]
+}

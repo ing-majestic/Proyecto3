@@ -1,0 +1,8 @@
+// The Round Graph
+digraph "1_ruta_malla20" {
+	4 -> 9 [label=37 constraint=false]
+	9 -> 3 [label=16 constraint=false]
+	3 -> 1 [label=24 constraint=false]
+	1 -> 10 [label=87 constraint=false]
+	10 [label="4 a nodo 10: 164" xlabel=""]
+}
